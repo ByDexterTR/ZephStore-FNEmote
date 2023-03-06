@@ -1,0 +1,513 @@
+"Store"
+{
+	"Fortnite Emotes"
+	{
+		"Finger Guns"
+		{
+			"emoteid" "1"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Come To Me"
+		{
+			"emoteid" "2"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Thumbs Down"
+		{
+			"emoteid" "3"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Thumbs Up"
+		{
+			"emoteid" "4"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Celebration"
+		{
+			"emoteid" "5"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Blow kiss"
+		{
+			"emoteid" "6"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Calculated"
+		{
+			"emoteid" "7"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Confused"
+		{
+			"emoteid" "8"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Chug"
+		{
+			"emoteid" "9"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Cry"
+		{
+			"emoteid" "10"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Band of the fort"
+		{
+			"emoteid" "11"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Shake It Up 2"
+		{
+			"emoteid" "12"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Facepalm"
+		{
+			"emoteid" "13"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"On the Hook"
+		{
+			"emoteid" "14"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Flex"
+		{
+			"emoteid" "15"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Golf Clap"
+		{
+			"emoteid" "16"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Hand Signals"
+		{
+			"emoteid" "17"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Click!"
+		{
+			"emoteid" "18"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Hot Stuff"
+		{
+			"emoteid" "19"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Breaking Point"
+		{
+			"emoteid" "20"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"True Love"
+		{
+			"emoteid" "21"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Kung-Fu Salute"
+		{
+			"emoteid" "22"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Laugh"
+		{
+			"emoteid" "23"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Luchador"
+		{
+			"emoteid" "24"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Make it Rain"
+		{
+			"emoteid" "25"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"No hoy"
+		{
+			"emoteid" "26"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"RPS: Paper"
+		{
+			"emoteid" "27"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"RPS: Rock"
+		{
+			"emoteid" "28"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"RPS: Scissors"
+		{
+			"emoteid" "29"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Salt"
+		{
+			"emoteid" "30"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Salute"
+		{
+			"emoteid" "31"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Drive Car"
+		{
+			"emoteid" "32"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Snap"
+		{
+			"emoteid" "33"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Stage Bow"
+		{
+			"emoteid" "34"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Salute 2"
+		{
+			"emoteid" "35"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Yeet"
+		{
+			"emoteid" "36"
+			"price" "5000"
+			"type" "fnemote"
+		}
+	}
+	"Fortnite Dances"
+	{
+		"Dance Moves"
+		{
+			"emoteid" "37"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Orange Justice"
+		{
+			"emoteid" "38"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Rambunctious"
+		{
+			"emoteid" "39"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"ElectroShuffle"
+		{
+			"emoteid" "40"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Aerobic"
+		{
+			"emoteid" "41"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Bendy"
+		{
+			"emoteid" "42"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Best Mates"
+		{
+			"emoteid" "43"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Boogie"
+		{
+			"emoteid" "44"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Capoeira"
+		{
+			"emoteid" "45"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Flapper"
+		{
+			"emoteid" "46"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Chicken"
+		{
+			"emoteid" "47"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Boneless"
+		{
+			"emoteid" "48"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Hype"
+		{
+			"emoteid" "49"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Shake It Up"
+		{
+			"emoteid" "50"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Disco Fever"
+		{
+			"emoteid" "51"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Disco Fever 2"
+		{
+			"emoteid" "52"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"The Worm"
+		{
+			"emoteid" "53"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Take The L"
+		{
+			"emoteid" "54"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"BreakDance"
+		{
+			"emoteid" "55"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Pump"
+		{
+			"emoteid" "56"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Ride The Pony"
+		{
+			"emoteid" "57"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Dab"
+		{
+			"emoteid" "58"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Eastern Bloc"
+		{
+			"emoteid" "59"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Dream Feet"
+		{
+			"emoteid" "60"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Floss"
+		{
+			"emoteid" "61"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Flippn"
+		{
+			"emoteid" "62"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Fresh"
+		{
+			"emoteid" "63"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Grefg"
+		{
+			"emoteid" "64"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Guitar"
+		{
+			"emoteid" "65"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Shuffle"
+		{
+			"emoteid" "66"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Hip Hop"
+		{
+			"emoteid" "67"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Hula Hop"
+		{
+			"emoteid" "68"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Infinite Dab"
+		{
+			"emoteid" "69"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Intensity"
+		{
+			"emoteid" "70"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Turkish Dabke"
+		{
+			"emoteid" "71"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Eagle"
+		{
+			"emoteid" "72"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"True Heart"
+		{
+			"emoteid" "73"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Living Large"
+		{
+			"emoteid" "74"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Maracas"
+		{
+			"emoteid" "75"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Pop Lock"
+		{
+			"emoteid" "76"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Star Power"
+		{
+			"emoteid" "77"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Robot"
+		{
+			"emoteid" "78"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"T-Rex"
+		{
+			"emoteid" "79"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Reanimated"
+		{
+			"emoteid" "80"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Twist"
+		{
+			"emoteid" "81"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Ware House"
+		{
+			"emoteid" "82"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"Wiggle"
+		{
+			"emoteid" "83"
+			"price" "5000"
+			"type" "fnemote"
+		}
+		"You're Awesome"
+		{
+			"emoteid" "84"
+			"price" "5000"
+			"type" "fnemote"
+		}
+	}
+} 
